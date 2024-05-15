@@ -1,0 +1,88 @@
+body{
+	background-color: #355758;
+	padding: 50px;
+	margin: 50px;
+}
+#home_page{
+	background-color: azure;
+	top: 25vh;
+	margin-left: 150px;
+	padding-right: 50px;
+	padding-left: 100px;
+	padding-top: 25px;
+	height: 25vh;
+	width: 50vw;
+}
+#login_home_page{
+	background-color:#81CACF;
+	top: 25vh;
+	padding-top: 25px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 25px;
+	height: 30vh;
+	width: 50vw;
+}
+#register_home_page{
+	background-color:#81CACF;
+	top: 25vh;
+	padding-top: 25px;
+	padding-right: 50px;
+	padding-left: 50px;
+	height: 45vh;
+	width: 50vw;
+}
+#header{
+	background-color:#D4F6CC;
+	top: 100vh;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	height: 3vh;
+	width: 90vw;
+}
+#logout_link{
+	text-decoration: none;
+	color: white;
+}
+#left_sidebar{
+	margin-top: 50px;
+	height: 30vh;
+	width: 13vw;
+	display: inline-block;
+}
+#left_sidebar table tr {
+	background-color: #0096FF;
+	color: white;
+	font-size: 18px;
+}
+#left_sidebar table tr:hover {
+	background-color: #D4F6CC;
+	font-size: 20px;
+	color: black;
+}
+#logout_link{
+	text-decoration: none;
+	color: white;
+}	
+.link{
+	text-decoration: none;
+	color: white;
+}
+.link:hover{
+	color: black;
+}
+#logout_link:hover{
+	background-color: #D4F6CC;
+	color: black;
+}
+#right_sidebar{
+	padding: 35px;
+	height: 75vh;
+	width: 75vw;
+	display: inline-block;
+	color: white;
+}
+#manage_task_link{
+	background-color: #355758;
+}
